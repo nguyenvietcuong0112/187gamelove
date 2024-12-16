@@ -1,0 +1,14 @@
+{
+  "pairs": [
+    { "action": "Lick", "bodyPart": "Lips" },
+    { "action": "Caress", "bodyPart": "Neck" },
+    { "action": "Massage", "bodyPart": "Hand" },
+    { "action": "Blow", "bodyPart": "Face" },
+    { "action": "Bite", "bodyPart": "Tummy" },
+    { "action": "Dance", "bodyPart": "Thigh" },
+    { "action": "Rub", "bodyPart": "Back" },
+    { "action": "Touch", "bodyPart": "Leg" },
+    { "action": "Tease", "bodyPart": "Chest" },
+    { "action": "Lick", "bodyPart": "Ear" }
+  ]
+}
